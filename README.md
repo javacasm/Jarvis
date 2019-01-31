@@ -1,5 +1,7 @@
 # Jarvis
 
+![Jarvis](https://vignette.wikia.nocookie.net/marvel-movies/images/6/61/J.A.R.V.I.S.2.jpg/revision/latest?cb=20130503134641&path-prefix=es)
+
 Proyecto para crear un asistente virtual con raspberry
 
 ## Aprendizaje automatico
@@ -17,3 +19,4 @@ Proyecto para crear un asistente virtual con raspberry
 [Video sobre proyecto similar](https://www.youtube.com/watch?v=2eoudIBVW9w)
 
 [Proyecto similar](https://pythonspot.com/personal-assistant-jarvis-in-python/)
+
